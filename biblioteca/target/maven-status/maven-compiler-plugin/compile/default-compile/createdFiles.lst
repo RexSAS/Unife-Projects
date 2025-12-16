@@ -1,0 +1,15 @@
+it\unife\lp\biblio\persistence\LibraryDataDTO.class
+it\unife\lp\biblio\App.class
+it\unife\lp\biblio\model\Book.class
+it\unife\lp\biblio\model\BookDTO.class
+it\unife\lp\biblio\model\LoanDTO.class
+module-info.java.bak
+it\unife\lp\biblio\model\Loan.class
+it\unife\lp\biblio\model\User.class
+it\unife\lp\biblio\view\BookEditDialogController.class
+it\unife\lp\biblio\persistence\JsonStorage.class
+it\unife\lp\biblio\model\UserDTO.class
+it\unife\lp\biblio\persistence\LibraryData.class
+it\unife\lp\biblio\view\UsersOverviewController.class
+it\unife\lp\biblio\view\BookOverviewController.class
+it\unife\lp\biblio\view\BookOverviewController$1.class

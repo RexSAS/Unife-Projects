@@ -1,0 +1,11 @@
+module it.unife.lp.biblio {
+    requires javafx.controls;
+    requires javafx.fxml;
+
+    //opens it.unife.lp.biblio to javafx.fxml;
+    //opens it.unife.lp.biblio.model to com.google.gson;
+    //opens it.unife.lp.biblio.persistence to com.google.gson;
+    //opens it.unife.lp.biblio.view to javafx.fxml;
+    
+    //exports it.unife.lp.biblio;
+}

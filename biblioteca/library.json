@@ -1,0 +1,368 @@
+{
+  "books": [
+    {
+      "isbn": "9788806229097",
+      "titolo": "Il nome della rosa",
+      "autore": "Umberto Eco",
+      "anno": 1980,
+      "genere": "Storico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807881164",
+      "titolo": "1984",
+      "autore": "George Orwell",
+      "anno": 1949,
+      "genere": "Distopico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807900896",
+      "titolo": "Fahrenheit 451",
+      "autore": "Ray Bradbury",
+      "anno": 1953,
+      "genere": "Fantascienza",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807812595",
+      "titolo": "Il signore degli anelli",
+      "autore": "J.R.R. Tolkien",
+      "anno": 1954,
+      "genere": "Fantasy",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804679603",
+      "titolo": "Harry Potter e la pietra filosofale",
+      "autore": "J.K. Rowling",
+      "anno": 1997,
+      "genere": "Fantasy",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804668232",
+      "titolo": "Harry Potter e la camera dei segreti",
+      "autore": "J.K. Rowling",
+      "anno": 1998,
+      "genere": "Fantasy",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788806229066",
+      "titolo": "Se questo è un uomo",
+      "autore": "Primo Levi",
+      "anno": 1947,
+      "genere": "Biografico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807884318",
+      "titolo": "La fattoria degli animali",
+      "autore": "George Orwell",
+      "anno": 1945,
+      "genere": "Satira",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804702441",
+      "titolo": "Il codice Da Vinci",
+      "autore": "Dan Brown",
+      "anno": 2003,
+      "genere": "Thriller",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788806228885",
+      "titolo": "Il deserto dei Tartari",
+      "autore": "Dino Buzzati",
+      "anno": 1940,
+      "genere": "Narrativa",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788806169645",
+      "titolo": "La coscienza di Zeno",
+      "autore": "Italo Svevo",
+      "anno": 1923,
+      "genere": "Narrativa",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807814308",
+      "titolo": "Cronache del ghiaccio e del fuoco",
+      "autore": "George R.R. Martin",
+      "anno": 1996,
+      "genere": "Fantasy",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788806205305",
+      "titolo": "Lo Hobbit",
+      "autore": "J.R.R. Tolkien",
+      "anno": 1937,
+      "genere": "Fantasy",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788806220049",
+      "titolo": "Il fu Mattia Pascal",
+      "autore": "Luigi Pirandello",
+      "anno": 1904,
+      "genere": "Narrativa",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807816265",
+      "titolo": "Dune",
+      "autore": "Frank Herbert",
+      "anno": 1965,
+      "genere": "Fantascienza",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804681071",
+      "titolo": "Neuromante",
+      "autore": "William Gibson",
+      "anno": 1984,
+      "genere": "Cyberpunk",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804683143",
+      "titolo": "Il cacciatore di aquiloni",
+      "autore": "Khaled Hosseini",
+      "anno": 2003,
+      "genere": "Drammatico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807885537",
+      "titolo": "La strada",
+      "autore": "Cormac McCarthy",
+      "anno": 2006,
+      "genere": "Post-apocalittico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788804672468",
+      "titolo": "Orgoglio e pregiudizio",
+      "autore": "Jane Austen",
+      "anno": 1813,
+      "genere": "Romantico",
+      "disponibile": false
+    },
+    {
+      "isbn": "9788807889009",
+      "titolo": "Il vecchio e il mare",
+      "autore": "Ernest Hemingway",
+      "anno": 1952,
+      "genere": "Narrativa",
+      "disponibile": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "nome": "Filippo",
+      "cognome": "Rossi",
+      "email": "filippo.rossi@gmail.it"
+    },
+    {
+      "id": "2",
+      "nome": "Giulia",
+      "cognome": "Bianchi",
+      "email": "giulia.bianchi@mail.it"
+    },
+    {
+      "id": "3",
+      "nome": "Luca",
+      "cognome": "Verdi",
+      "email": "luca.verdi@mail.it"
+    },
+    {
+      "id": "4",
+      "nome": "Sara",
+      "cognome": "Neri",
+      "email": "sara.neri@mail.it"
+    },
+    {
+      "id": "5",
+      "nome": "Paolo",
+      "cognome": "Gallo",
+      "email": "paolo.gallo@mail.it"
+    },
+    {
+      "id": "6",
+      "nome": "Elena",
+      "cognome": "Fontana",
+      "email": "elena.fontana@mail.it"
+    },
+    {
+      "id": "7",
+      "nome": "Andrea",
+      "cognome": "Ferri",
+      "email": "andrea.ferri@mail.it"
+    },
+    {
+      "id": "8",
+      "nome": "Marta",
+      "cognome": "Riva",
+      "email": "marta.riva@mail.it"
+    },
+    {
+      "id": "9",
+      "nome": "Davide",
+      "cognome": "Moretti",
+      "email": "davide.moretti@mail.it"
+    },
+    {
+      "id": "10",
+      "nome": "Chiara",
+      "cognome": "Costa",
+      "email": "chiara.costa@mail.it"
+    },
+    {
+      "id": "11",
+      "nome": "Alessio",
+      "cognome": "Greco",
+      "email": "alessio.greco@mail.it"
+    },
+    {
+      "id": "12",
+      "nome": "Francesca",
+      "cognome": "Lombardi",
+      "email": "francesca.l@mail.it"
+    },
+    {
+      "id": "13",
+      "nome": "Matteo",
+      "cognome": "Serra",
+      "email": "matteo.serra@mail.it"
+    },
+    {
+      "id": "14",
+      "nome": "Ilaria",
+      "cognome": "De Luca",
+      "email": "ilaria.deluca@mail.it"
+    },
+    {
+      "id": "15",
+      "nome": "Stefano",
+      "cognome": "Marini",
+      "email": "stefano.marini@mail.it"
+    },
+    {
+      "id": "16",
+      "nome": "Laura",
+      "cognome": "Fabbri",
+      "email": "laura.fabbri@mail.it"
+    },
+    {
+      "id": "17",
+      "nome": "Nicola",
+      "cognome": "Ruggeri",
+      "email": "nicola.ruggeri@mail.it"
+    },
+    {
+      "id": "18",
+      "nome": "Valentina",
+      "cognome": "Pellegrini",
+      "email": "valentina.p@mail.it"
+    },
+    {
+      "id": "19",
+      "nome": "Simone",
+      "cognome": "Caruso",
+      "email": "simone.caruso@mail.it"
+    },
+    {
+      "id": "20",
+      "nome": "Federica",
+      "cognome": "Testa",
+      "email": "federica.testa@mail.it"
+    }
+  ],
+  "loans": [
+    {
+      "id": "L1",
+      "userId": "1",
+      "bookIsbn": "9788806229097",
+      "startDate": "2025-12-01",
+      "dueDate": "2025-12-20",
+      "restituito": false
+    },
+    {
+      "id": "L2",
+      "userId": "2",
+      "bookIsbn": "9788807900896",
+      "startDate": "2025-12-03",
+      "dueDate": "2025-12-22",
+      "restituito": false
+    },
+    {
+      "id": "L3",
+      "userId": "3",
+      "bookIsbn": "9788804679603",
+      "startDate": "2025-12-05",
+      "dueDate": "2025-12-24",
+      "restituito": false
+    },
+    {
+      "id": "L4",
+      "userId": "4",
+      "bookIsbn": "9788806169645",
+      "startDate": "2025-11-28",
+      "dueDate": "2025-12-12",
+      "restituito": true
+    },
+    {
+      "id": "L5",
+      "userId": "5",
+      "bookIsbn": "9788804683143",
+      "startDate": "2025-11-20",
+      "dueDate": "2025-12-05",
+      "restituito": true
+    },
+    {
+      "id": "L6",
+      "userId": "6",
+      "bookIsbn": "9788807816265",
+      "startDate": "2025-12-07",
+      "dueDate": "2025-12-28",
+      "restituito": false
+    },
+    {
+      "id": "L7",
+      "userId": "7",
+      "bookIsbn": "9788804681071",
+      "startDate": "2025-12-08",
+      "dueDate": "2025-12-29",
+      "restituito": false
+    },
+    {
+      "id": "L8",
+      "userId": "8",
+      "bookIsbn": "9788806205305",
+      "startDate": "2025-12-02",
+      "dueDate": "2025-12-18",
+      "restituito": true
+    },
+    {
+      "id": "L9",
+      "userId": "9",
+      "bookIsbn": "9788804672468",
+      "startDate": "2025-12-06",
+      "dueDate": "2025-12-27",
+      "restituito": false
+    },
+    {
+      "id": "L10",
+      "userId": "10",
+      "bookIsbn": "9788807889009",
+      "startDate": "2025-12-09",
+      "dueDate": "2025-12-30",
+      "restituito": false
+    }
+  ]
+}
